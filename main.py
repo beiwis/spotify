@@ -16,7 +16,7 @@ def main():
         print("Please set your Spotify username in the .env file. See README.md for more information.")
         return
     while True:
-        mode = input("Enter the mode number (q to quit): ")
+        mode = input("0. Get genres\n1. Organize songs\n2. Create playlist\n3. Get song info\n\nEnter the mode number (q to quit): ")
 
         if mode == "q":
             break

@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/music genre.md",
+                "file": "resources/Spotipy.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/music genre.md",
+                "file": "resources/Spotipy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/music genre.md",
+                "file": "resources/Spotipy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/music genre.md"
+                "file": "resources/Spotipy.md"
               }
             }
           }
@@ -239,12 +239,13 @@
   },
   "active": "c1d7b05639b818fe",
   "lastOpenFiles": [
-    "resources/Categorical Conventions in Music Discourse Style and Genre.pdf",
+    "resources/Genre problematic.md",
+    "Machine learning.md",
     "wiki/music genre.md",
+    "resources/Categorical Conventions in Music Discourse Style and Genre.pdf",
     "resources/Chosic.md",
     "wiki/Music Information Retrieval (MIR).md",
     "Model.md",
-    "Machine learning.md",
     "Pasted image 20231201162517.png",
     "midterm meeting feedback.md",
     "README.md",
@@ -257,7 +258,6 @@
     "resources/everynoise.com.md",
     "resources/music-genre-list-complete-list-music-styles-types-genres.pdf",
     "resources/music-genre-list-complete-list-music-styles-types-genres.pdf.opdownload",
-    "resources/Genre problematic.md",
     "Documentation/Vibes.md",
     "Documentation/Genres.md",
     "wiki"
