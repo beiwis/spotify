@@ -1,0 +1,9 @@
+- show what we've done
+- not TMI, its hard to follow
+	- choose a straight line and stick to it
+	- rehearse to see if it works
+- meet with project owner
+- respect time constraints
+- answer precisely, better to think before talking
+- fast and concise
+- 

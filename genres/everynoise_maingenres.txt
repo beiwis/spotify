@@ -1,0 +1,1350 @@
+1	☊	pop
+2	☊	rap
+3	☊	rock
+4	☊	urbano latino
+5	☊	hip hop
+6	☊	trap latino
+7	☊	dance pop
+8	☊	reggaeton
+9	☊	pop rap
+10	☊	modern rock
+11	☊	pov: indie
+12	☊	musica mexicana
+13	☊	latin pop
+14	☊	classic rock
+15	☊	permanent wave
+16	☊	filmi
+17	☊	trap
+18	☊	alternative metal
+19	☊	k-pop
+20	☊	r&b
+21	☊	corrido
+22	☊	canadian pop
+23	☊	norteno
+24	☊	sierreno
+25	☊	soft rock
+26	☊	album rock
+27	☊	pop dance
+28	☊	sad sierreno
+29	☊	edm
+30	☊	hard rock
+31	☊	contemporary country
+32	☊	mellow gold
+33	☊	melodic rap
+34	☊	uk pop
+35	☊	banda
+36	☊	modern bollywood
+37	☊	alternative rock
+38	☊	corridos tumbados
+39	☊	post-grunge
+40	☊	sertanejo universitario
+41	☊	nu metal
+42	☊	country
+43	☊	atl hip hop
+44	☊	art pop
+45	☊	urban contemporary
+46	☊	sertanejo
+47	☊	southern hip hop
+48	☊	singer-songwriter
+49	☊	reggaeton colombiano
+50	☊	french hip hop
+51	☊	arrocha
+52	☊	alt z
+53	☊	country road
+54	☊	canadian hip hop
+55	☊	colombian pop
+56	☊	mexican pop
+57	☊	j-pop
+58	☊	singer-songwriter pop
+59	☊	ranchera
+60	☊	indonesian pop
+61	☊	new wave pop
+62	☊	german hip hop
+63	☊	pop urbaine
+64	☊	indietronica
+65	☊	soul
+66	☊	rock en espanol
+67	☊	latin alternative
+68	☊	gangster rap
+69	☊	k-pop boy group
+70	☊	latin arena pop
+71	☊	italian pop
+72	☊	chicago rap
+73	☊	heartland rock
+74	☊	k-pop girl group
+75	☊	latin hip hop
+76	☊	agronejo
+77	☊	modern country pop
+78	☊	electro house
+79	☊	neo mellow
+80	☊	canadian contemporary r&b
+81	☊	latin rock
+82	☊	pop punk
+83	☊	pop rock
+84	☊	punjabi pop
+85	☊	new wave
+86	☊	new romantic
+87	☊	adult standards
+88	☊	rap metal
+89	☊	uk dance
+90	☊	trap argentino
+91	☊	modern alternative rock
+92	☊	slap house
+93	☊	indie pop
+94	☊	indie rock
+95	☊	conscious hip hop
+96	☊	house
+97	☊	folk rock
+98	☊	italian hip hop
+99	☊	east coast hip hop
+100	☊	turkish pop
+101	☊	metal
+102	☊	modern country rock
+103	☊	desi pop
+104	☊	bedroom pop
+105	☊	hoerspiel
+106	☊	afrobeats
+107	☊	post-teen pop
+108	☊	neo soul
+109	☊	viral pop
+110	☊	sped up
+111	☊	cloud rap
+112	☊	talent show
+113	☊	spanish pop
+114	☊	puerto rican pop
+115	☊	opm
+116	☊	grupera
+117	☊	west coast rap
+118	☊	punk
+119	☊	alternative r&b
+120	☊	boy band
+121	☊	german pop
+122	☊	psychedelic rock
+123	☊	glam metal
+124	☊	stomp and holler
+125	☊	ccm
+126	☊	miami hip hop
+127	☊	rage rap
+128	☊	desi hip hop
+129	☊	tropical
+130	☊	argentine rock
+131	☊	hip pop
+132	☊	sertanejo pop
+133	☊	glam rock
+134	☊	nigerian pop
+135	☊	funk carioca
+136	☊	detroit hip hop
+137	☊	argentine hip hop
+138	☊	dark trap
+139	☊	vocal jazz
+140	☊	piano rock
+141	☊	latin viral pop
+142	☊	underground hip hop
+143	☊	country rock
+144	☊	synthpop
+145	☊	italian adult pop
+146	☊	mexican hip hop
+147	☊	progressive electro house
+148	☊	metropopolis
+149	☊	indie folk
+150	☊	garage rock
+151	☊	classical
+152	☊	progressive house
+153	☊	europop
+154	☊	yacht rock
+155	☊	art rock
+156	☊	mpb
+157	☊	pagode
+158	☊	urbano espanol
+159	☊	chamber pop
+160	☊	dance rock
+161	☊	tropical house
+162	☊	j-rock
+163	☊	anime
+164	☊	polish hip hop
+165	☊	rap francais
+166	☊	folk
+167	☊	lounge
+168	☊	disco
+169	☊	sleep
+170	☊	british soul
+171	☊	australian pop
+172	☊	pluggnb
+173	☊	trap brasileiro
+174	☊	metalcore
+175	☊	christian music
+176	☊	forro
+177	☊	big room
+178	☊	swedish pop
+179	☊	gen z singer-songwriter
+180	☊	uk hip hop
+181	☊	reggaeton flow
+182	☊	electropop
+183	☊	classic oklahoma country
+184	☊	contemporary r&b
+185	☊	mexican rock
+186	☊	british invasion
+187	☊	pop nacional
+188	☊	indie soul
+189	☊	white noise
+190	☊	folk-pop
+191	☊	french pop
+192	☊	pagode novo
+193	☊	soundtrack
+194	☊	funk metal
+195	☊	emo rap
+196	☊	grunge
+197	☊	salsa
+198	☊	rain
+199	☊	r&b francais
+200	☊	lgbtq+ hip hop
+201	☊	turkish rock
+202	☊	dirty south rap
+203	☊	memphis hip hop
+204	☊	trap italiana
+205	☊	mariachi
+206	☊	brostep
+207	☊	easy listening
+208	☊	classic soul
+209	☊	funk mtg
+210	☊	trap triste
+211	☊	blues rock
+212	☊	melancholia
+213	☊	pop soul
+214	☊	brazilian gospel
+215	☊	alternative hip hop
+216	☊	outlaw country
+217	☊	melodic metalcore
+218	☊	turkish hip hop
+219	☊	orchestral soundtrack
+220	☊	dutch house
+221	☊	queens hip hop
+222	☊	motown
+223	☊	christian alternative rock
+224	☊	quiet storm
+225	☊	mandopop
+226	☊	electronica
+227	☊	pixel
+228	☊	dfw rap
+229	☊	worship
+230	☊	funk
+231	☊	rock-and-roll
+232	☊	otacore
+233	☊	new orleans rap
+234	☊	pop reggaeton
+235	☊	japanese teen pop
+236	☊	brazilian hip hop
+237	☊	gruperas inmortales
+238	☊	dream pop
+239	☊	rap conscient
+240	☊	indie poptimism
+241	☊	funk rock
+242	☊	bolero
+243	☊	australian dance
+244	☊	g funk
+245	☊	bachata
+246	☊	progressive rock
+247	☊	barbadian pop
+248	☊	neon pop punk
+249	☊	eurodance
+250	☊	emo
+251	☊	hardcore hip hop
+252	☊	neo-synthpop
+253	☊	funk paulista
+254	☊	brazilian rock
+255	☊	trap boricua
+256	☊	cantautor
+257	☊	chanson
+258	☊	indonesian pop rock
+259	☊	pop venezolano
+260	☊	florida rap
+261	☊	kleine hoerspiel
+262	☊	drift phonk
+263	☊	bedroom r&b
+264	☊	latin christian
+265	☊	russian hip hop
+266	☊	spanish hip hop
+267	☊	movie tunes
+268	☊	cali rap
+269	☊	urbano chileno
+270	☊	dancehall
+271	☊	children's music
+272	☊	color noise
+273	☊	trap queen
+274	☊	brooklyn drill
+275	☊	classic texas country
+276	☊	world worship
+277	☊	sheffield indie
+278	☊	rockabilly
+279	☊	escape room
+280	☊	modern indie pop
+281	☊	anime rock
+282	☊	plugg
+283	☊	shoegaze
+284	☊	funk rj
+285	☊	reggae fusion
+286	☊	pop argentino
+287	☊	britpop
+288	☊	australian rock
+289	☊	brooklyn indie
+290	☊	baroque pop
+291	☊	industrial metal
+292	☊	merseybeat
+293	☊	tamil pop
+294	☊	turkish trap
+295	☊	lilith
+296	☊	r&b en espanol
+297	☊	trance
+298	☊	sophisti-pop
+299	☊	thai pop
+300	☊	downtempo
+301	☊	southern rock
+302	☊	tamil hip hop
+303	☊	indian instrumental
+304	☊	candy pop
+305	☊	country dawn
+306	☊	girl group
+307	☊	polish trap
+308	☊	punjabi hip hop
+309	☊	compositional ambient
+310	☊	old school thrash
+311	☊	socal pop punk
+312	☊	classic bollywood
+313	☊	atl trap
+314	☊	uk contemporary r&b
+315	☊	dark r&b
+316	☊	instrumental lullaby
+317	☊	symphonic rock
+318	☊	north carolina hip hop
+319	☊	pittsburgh rap
+320	☊	tennessee hip hop
+321	☊	kindermusik
+322	☊	acoustic pop
+323	☊	thrash metal
+324	☊	gym phonk
+325	☊	canadian rock
+326	☊	modern blues rock
+327	☊	melodic drill
+328	☊	rock nacional brasileiro
+329	☊	healing hz
+330	☊	dutch hip hop
+331	☊	nyc rap
+332	☊	philly rap
+333	☊	afrofuturism
+334	☊	madchester
+335	☊	spanish pop rock
+336	☊	new americana
+337	☊	reggae
+338	☊	rap latina
+339	☊	alternative dance
+340	☊	trip hop
+341	☊	k-rap
+342	☊	la indie
+343	☊	australian hip hop
+344	☊	chill house
+345	☊	indie anthem-folk
+346	☊	v-pop
+347	☊	funk consciente
+348	☊	musica chihuahuense
+349	☊	rap rock
+350	☊	tejano
+351	☊	pop flamenco
+352	☊	screamo
+353	☊	nova mpb
+354	☊	urbano mexicano
+355	☊	dutch edm
+356	☊	pop emo
+357	☊	cancion melodica
+358	☊	aesthetic rap
+359	☊	azontobeats
+360	☊	classic country pop
+361	☊	sertanejo tradicional
+362	☊	cumbia pop
+363	☊	jazz
+364	☊	afropop
+365	☊	rap conciencia
+366	☊	korean ost
+367	☊	dutch pop
+368	☊	j-division
+369	☊	sigilkore
+370	☊	adoracao
+371	☊	neo-psychedelic
+372	☊	ska argentino
+373	☊	classic italian pop
+374	☊	groove metal
+375	☊	irish rock
+376	☊	indie pop rap
+377	☊	power metal
+378	☊	danish pop
+379	☊	jazz pop
+380	☊	axe
+381	☊	pop r&b
+382	☊	lo-fi study
+383	☊	industrial rock
+384	☊	southern soul
+385	☊	pixie
+386	☊	uk post-punk
+387	☊	bossa nova
+388	☊	hyperpop
+389	☊	lo-fi indie
+390	☊	lo-fi beats
+391	☊	phonk brasileiro
+392	☊	cumbia sonidera
+393	☊	roots reggae
+394	☊	german techno
+395	☊	sad lo-fi
+396	☊	sad rap
+397	☊	binaural
+398	☊	cumbia villera
+399	☊	german metal
+400	☊	arab pop
+401	☊	kentucky hip hop
+402	☊	roots rock
+403	☊	filter house
+404	☊	drill
+405	☊	german dance
+406	☊	latin worship
+407	☊	brazilian reggae
+408	☊	video game music
+409	☊	broadway
+410	☊	samba
+411	☊	tech house
+412	☊	pop edm
+413	☊	neo-classical
+414	☊	show tunes
+415	☊	canadian trap
+416	☊	sufi
+417	☊	swedish hip hop
+418	☊	nursery
+419	☊	mollywood
+420	☊	korean r&b
+421	☊	hollywood
+422	☊	rap canario
+423	☊	irish singer-songwriter
+424	☊	turkish alt pop
+425	☊	spanish rock
+426	☊	lullaby
+427	☊	electro latino
+428	☊	baton rouge rap
+429	☊	russian pop
+430	☊	skate punk
+431	☊	swing
+432	☊	german rock
+433	☊	shimmer pop
+434	☊	grime
+435	☊	noise pop
+436	☊	country pop
+437	☊	speed metal
+438	☊	vallenato
+439	☊	nigerian hip hop
+440	☊	jazz blues
+441	☊	salsa puertorriquena
+442	☊	indonesian indie
+443	☊	swedish trap pop
+444	☊	rap marseille
+445	☊	musica para ninos
+446	☊	reggaeton mexicano
+447	☊	la pop
+448	☊	ohio hip hop
+449	☊	environmental
+450	☊	deep underground hip hop
+451	☊	ambient pop
+452	☊	french indie pop
+453	☊	cloud rap francais
+454	☊	tollywood
+455	☊	lagu jawa
+456	☊	stutter house
+457	☊	hindi hip hop
+458	☊	background piano
+459	☊	florida drill
+460	☊	new rave
+461	☊	cuarteto
+462	☊	french rock
+463	☊	pinoy hip hop
+464	☊	chicago drill
+465	☊	turbo folk
+466	☊	dreamo
+467	☊	japanese singer-songwriter
+468	☊	oxford indie
+469	☊	czsk hip hop
+470	☊	swedish electropop
+471	☊	classic j-pop
+472	☊	canadian singer-songwriter
+473	☊	drill espanol
+474	☊	polish pop
+475	☊	dangdut
+476	☊	rap napoletano
+477	☊	drill francais
+478	☊	indonesian singer-songwriter
+479	☊	flamenco urbano
+480	☊	new jack swing
+481	☊	new french touch
+482	☊	industrial
+483	☊	coverchill
+484	☊	gym hardstyle
+485	☊	el paso indie
+486	☊	uk alternative pop
+487	☊	baroque
+488	☊	deep house
+489	☊	modern indie folk
+490	☊	uk metalcore
+491	☊	complextro
+492	☊	kollywood
+493	☊	hare krishna
+494	☊	early music
+495	☊	norwegian pop
+496	☊	egyptian pop
+497	☊	bachata dominicana
+498	☊	cantopop
+499	☊	modern folk rock
+500	☊	country rap
+501	☊	mexican indie
+502	☊	glitchcore
+503	☊	arabesk
+504	☊	beatlesque
+505	☊	meditation
+506	☊	symphonic metal
+507	☊	bubblegrunge
+508	☊	german drill
+509	☊	late romantic era
+510	☊	classic pakistani pop
+511	☊	weirdcore
+512	☊	electric blues
+513	☊	electronic trap
+514	☊	japanese vgm
+515	☊	funk ostentacao
+516	☊	chill r&b
+517	☊	indie rock italiano
+518	☊	meme rap
+519	☊	blues
+520	☊	viral rap
+521	☊	indie r&b
+522	☊	previa
+523	☊	pop rock brasileiro
+524	☊	trap funk
+525	☊	bhojpuri pop
+526	☊	covertronica
+527	☊	contemporary vocal jazz
+528	☊	arrochadeira
+529	☊	scandipop
+530	☊	pagode baiano
+531	☊	neue deutsche harte
+532	☊	classic canadian rock
+533	☊	indonesian jazz
+534	☊	classic swedish pop
+535	☊	ambient lo-fi
+536	☊	dutch rap pop
+537	☊	rap dominicano
+538	☊	nu-cumbia
+539	☊	anime score
+540	☊	meme
+541	☊	swamp rock
+542	☊	belgian edm
+543	☊	mambo chileno
+544	☊	classical era
+545	☊	indonesian rock
+546	☊	old school atlanta hip hop
+547	☊	instrumental hip hop
+548	☊	vocaloid
+549	☊	russian trap
+550	☊	punk blues
+551	☊	memphis soul
+552	☊	australian indie
+553	☊	c-pop
+554	☊	musica popular colombiana
+555	☊	schlager
+556	☊	taiwan pop
+557	☊	pakistani hip hop
+558	☊	australian psych
+559	☊	power pop
+560	☊	chillhop
+561	☊	early romantic era
+562	☊	classic indonesian rock
+563	☊	drum and bass
+564	☊	jam band
+565	☊	soul blues
+566	☊	edmonton indie
+567	☊	nz pop
+568	☊	christian rock
+569	☊	turkish folk
+570	☊	greek trap
+571	☊	gujarati pop
+572	☊	hamburg hip hop
+573	☊	sacramento indie
+574	☊	dangdut koplo
+575	☊	operatic pop
+576	☊	javanese dangdut
+577	☊	melbourne bounce international
+578	☊	post-punk argentina
+579	☊	golden age hip hop
+580	☊	alternative emo
+581	☊	venezuelan hip hop
+582	☊	cantautora mexicana
+583	☊	pop rap brasileiro
+584	☊	electro
+585	☊	post-punk
+586	☊	j-pixie
+587	☊	nouvelle chanson francaise
+588	☊	celtic rock
+589	☊	bass house
+590	☊	spanish indie pop
+591	☊	deep euro house
+592	☊	p-pop
+593	☊	progressive metal
+594	☊	red dirt
+595	☊	torch song
+596	☊	bebop
+597	☊	crunk
+598	☊	stoner rock
+599	☊	bubblegum pop
+600	☊	ectofolk
+601	☊	background jazz
+602	☊	irish pop
+603	☊	vietnamese hip hop
+604	☊	new york drill
+605	☊	pop lgbtq+ brasileira
+606	☊	malaysian pop
+607	☊	danish hip hop
+608	☊	turkce drill
+609	☊	countrygaze
+610	☊	chinese viral pop
+611	☊	argentine indie
+612	☊	canadian metal
+613	☊	modern bhajan
+614	☊	comic
+615	☊	german alternative rap
+616	☊	post-romantic era
+617	☊	pop house
+618	☊	ska
+619	☊	chilean rock
+620	☊	etherpop
+621	☊	indie hip hop
+622	☊	philly indie
+623	☊	australian electropop
+624	☊	dancefloor dnb
+625	☊	rumba
+626	☊	musica de fondo
+627	☊	indie garage rock
+628	☊	swedish gangsta rap
+629	☊	hip house
+630	☊	piano cover
+631	☊	korean pop
+632	☊	funk pop
+633	☊	canadian indie
+634	☊	chill pop
+635	☊	scenecore
+636	☊	funk bh
+637	☊	shush
+638	☊	tagalog rap
+639	☊	dance-punk
+640	☊	reggae rock
+641	☊	electra
+642	☊	background music
+643	☊	preschool children's music
+644	☊	moombahton
+645	☊	indonesian r&b
+646	☊	pop romantico
+647	☊	j-poprock
+648	☊	indie surf
+649	☊	smooth jazz
+650	☊	dutch rock
+651	☊	uk drill
+652	☊	turkish alternative rock
+653	☊	old school hip hop
+654	☊	small room
+655	☊	protopunk
+656	☊	turkish singer-songwriter
+657	☊	cartoon
+658	☊	cumbia
+659	☊	kentucky roots
+660	☊	rome indie
+661	☊	writing
+662	☊	modern salsa
+663	☊	speedrun
+664	☊	musica infantil
+665	☊	bedroom soul
+666	☊	experimental pop
+667	☊	norteno-sax
+668	☊	chillwave
+669	☊	romanian pop
+670	☊	gauze pop
+671	☊	lo-fi jazzhop
+672	☊	dembow
+673	☊	trova
+674	☊	deep ccm
+675	☊	world
+676	☊	finnish pop
+677	☊	desi trap
+678	☊	belgian hip hop
+679	☊	classic opm
+680	☊	tecnobanda
+681	☊	reggaeton chileno
+682	☊	alternative pop rock
+683	☊	finnish hip hop
+684	☊	jazz funk
+685	☊	rock cristiano
+686	☊	sunshine pop
+687	☊	melbourne bounce
+688	☊	aussietronica
+689	☊	french indietronica
+690	☊	norwegian indie
+691	☊	laiko
+692	☊	japanese soundtrack
+693	☊	modern dream pop
+694	☊	south carolina hip hop
+695	☊	indie triste
+696	☊	boom bap espanol
+697	☊	albanian hip hop
+698	☊	classic schlager
+699	☊	pinoy r&b
+700	☊	birmingham metal
+701	☊	rap politico
+702	☊	trap mexicano
+703	☊	german soundtrack
+704	☊	chutney
+705	☊	nashville sound
+706	☊	czech hip hop
+707	☊	velha guarda
+708	☊	disco house
+709	☊	japanese alternative rock
+710	☊	instrumental worship
+711	☊	acid rock
+712	☊	corridos alternativos
+713	☊	greek pop
+714	☊	scottish rock
+715	☊	british singer-songwriter
+716	☊	fvnky rimex
+717	☊	slowcore
+718	☊	israeli pop
+719	☊	bossa nova cover
+720	☊	british soundtrack
+721	☊	detroit trap
+722	☊	modern alternative pop
+723	☊	cumbia 420
+724	☊	german baroque
+725	☊	rap df
+726	☊	texas country
+727	☊	brill building pop
+728	☊	swedish metal
+729	☊	german romanticism
+730	☊	houston rap
+731	☊	scorecore
+732	☊	new jersey rap
+733	☊	nu jazz
+734	☊	social media pop
+735	☊	czech pop
+736	☊	arkansas country
+737	☊	post-disco
+738	☊	epicore
+739	☊	political hip hop
+740	☊	redneck
+741	☊	gaming edm
+742	☊	death metal
+743	☊	panamanian pop
+744	☊	swedish trap
+745	☊	r&b brasileiro
+746	☊	greek hip hop
+747	☊	mexican rock-and-roll
+748	☊	brazilian edm
+749	☊	high vibe
+750	☊	j-rap
+751	☊	chicano rap
+752	☊	japanese emo
+753	☊	ghazal
+754	☊	uk funky
+755	☊	post-hardcore
+756	☊	trap chileno
+757	☊	uk alternative hip hop
+758	☊	black americana
+759	☊	salsa colombiana
+760	☊	indonesian folk
+761	☊	indian indie
+762	☊	albanian pop
+763	☊	modern southern rock
+764	☊	russian dance
+765	☊	christian indie
+766	☊	cumbia chilena
+767	☊	gothic metal
+768	☊	french synthpop
+769	☊	slowed and reverb
+770	☊	indian singer-songwriter
+771	☊	kentucky indie
+772	☊	italian indie pop
+773	☊	euphoric hardstyle
+774	☊	polish viral pop
+775	☊	frauenrap
+776	☊	rap genovese
+777	☊	nyc pop
+778	☊	oakland hip hop
+779	☊	italo dance
+780	☊	modern blues
+781	☊	musica sonorense
+782	☊	canadian punk
+783	☊	hungarian pop
+784	☊	lo-fi cover
+785	☊	german cloud rap
+786	☊	hard rock brasileiro
+787	☊	rawstyle
+788	☊	russian alt pop
+789	☊	rap belge
+790	☊	rap calme
+791	☊	bronx drill
+792	☊	british blues
+793	☊	hardcore punk
+794	☊	anime lo-fi
+795	☊	grupero romantico
+796	☊	deboxe
+797	☊	afroswing
+798	☊	indie game soundtrack
+799	☊	modern power pop
+800	☊	phonk
+801	☊	rock urbano mexicano
+802	☊	cumbia peruana
+803	☊	lo-fi sleep
+804	☊	banda jalisciense
+805	☊	chicago indie
+806	☊	indonesian pop punk
+807	☊	acoustic cover
+808	☊	minimal techno
+809	☊	stomp and flutter
+810	☊	asmr
+811	☊	early modern classical
+812	☊	gothic symphonic metal
+813	☊	spanish new wave
+814	☊	bossbeat
+815	☊	lo-fi chill
+816	☊	jazz trumpet
+817	☊	minnesota hip hop
+818	☊	hi-nrg
+819	☊	nu disco
+820	☊	dutch trance
+821	☊	barnmusik
+822	☊	anadolu rock
+823	☊	zolo
+824	☊	ocean
+825	☊	afro r&b
+826	☊	persian pop
+827	☊	latin talent show
+828	☊	jazz rap
+829	☊	duranguense
+830	☊	alternative country
+831	☊	trancecore
+832	☊	dubstep
+833	☊	rock gospel brasileiro
+834	☊	afrofuturismo brasileiro
+835	☊	modern hard rock
+836	☊	supergroup
+837	☊	finnish dance pop
+838	☊	belgian pop
+839	☊	christian hip hop
+840	☊	pop electronico
+841	☊	classic hardstyle
+842	☊	deep groove house
+843	☊	hip hop tuga
+844	☊	haryanvi pop
+845	☊	contemporary post-bop
+846	☊	gospel
+847	☊	northern soul
+848	☊	vietnamese melodic rap
+849	☊	water
+850	☊	doo-wop
+851	☊	american metalcore
+852	☊	shiver pop
+853	☊	seattle hip hop
+854	☊	stoner metal
+855	☊	canadian electronic
+856	☊	visual kei
+857	☊	colombian hip hop
+858	☊	traprun
+859	☊	pakistani pop
+860	☊	argentine telepop
+861	☊	deathcore
+862	☊	ukrainian pop
+863	☊	piseiro
+864	☊	detroit rock
+865	☊	big beat
+866	☊	melodic dubstep
+867	☊	australian surf rock
+868	☊	ambient worship
+869	☊	canadian country
+870	☊	hindi indie
+871	☊	hardwave
+872	☊	pinoy trap
+873	☊	vapor soul
+874	☊	future garage
+875	☊	ska mexicano
+876	☊	taiwan singer-songwriter
+877	☊	folklore argentino
+878	☊	rock alternativo brasileiro
+879	☊	partyschlager
+880	☊	cool jazz
+881	☊	australian indie folk
+882	☊	london rap
+883	☊	diva house
+884	☊	argentine reggae
+885	☊	haryanvi hip hop
+886	☊	intelligent dance music
+887	☊	charva
+888	☊	indonesian folk pop
+889	☊	nwobhm
+890	☊	soul jazz
+891	☊	melodic death metal
+892	☊	j-pop boy group
+893	☊	muziek voor kinderen
+894	☊	milan indie
+895	☊	canadian pop punk
+896	☊	progressive bluegrass
+897	☊	corridos clasicos
+898	☊	a cappella
+899	☊	j-acoustic
+900	☊	indonesian alternative rock
+901	☊	chicago bop
+902	☊	italian underground hip hop
+903	☊	turkce slow sarkilar
+904	☊	japanese electropop
+905	☊	drumless hip hop
+906	☊	hawaiian hip hop
+907	☊	rif
+908	☊	middle earth
+909	☊	canadian contemporary country
+910	☊	boston rock
+911	☊	classic mandopop
+912	☊	swedish synthpop
+913	☊	jazz saxophone
+914	☊	rave funk
+915	☊	mainland chinese pop
+916	☊	seattle indie
+917	☊	cubaton
+918	☊	russelater
+919	☊	manguebeat
+920	☊	moroccan pop
+921	☊	tropicalia
+922	☊	vapor twitch
+923	☊	neoperreo
+924	☊	rap espanol
+925	☊	rock uruguayo
+926	☊	trap soul
+927	☊	electronica argentina
+928	☊	urdu hip hop
+929	☊	impressionism
+930	☊	korean city pop
+931	☊	jamaican dancehall
+932	☊	musica bajacaliforniana
+933	☊	chill drill
+934	☊	brighton indie
+935	☊	dinner jazz
+936	☊	new age piano
+937	☊	spacegrunge
+938	☊	new age
+939	☊	alte
+940	☊	suomi rock
+941	☊	comic metal
+942	☊	funk 150 bpm
+943	☊	arabic hip hop
+944	☊	experimental r&b
+945	☊	japanese r&b
+946	☊	swedish alternative rock
+947	☊	psychedelic hip hop
+948	☊	japanese chillhop
+949	☊	vallenato moderno
+950	☊	uplifting trance
+951	☊	roots worship
+952	☊	p funk
+953	☊	vocal house
+954	☊	perreo
+955	☊	traditional blues
+956	☊	german indie
+957	☊	swedish idol pop
+958	☊	rock drums
+959	☊	sound
+960	☊	swedish indie pop
+961	☊	rap maroc
+962	☊	russian rock
+963	☊	vancouver indie
+964	☊	bolero mexicano
+965	☊	jazz piano
+966	☊	levenslied
+967	☊	nashville hip hop
+968	☊	uk americana
+969	☊	nueva cancion
+970	☊	scam rap
+971	☊	english indie rock
+972	☊	ska punk
+973	☊	sky room
+974	☊	rap cristiano
+975	☊	naija worship
+976	☊	modern j-rock
+977	☊	experimental hip hop
+978	☊	new jersey indie
+979	☊	bhajan
+980	☊	south african pop
+981	☊	ambient folk
+982	☊	neo-singer-songwriter
+983	☊	trap colombiano
+984	☊	indie quebecois
+985	☊	classic girl group
+986	☊	progressive trance
+987	☊	classic kollywood
+988	☊	dark pop
+989	☊	tierra caliente
+990	☊	bass trap
+991	☊	rebel blues
+992	☊	toronto indie
+993	☊	manele
+994	☊	lo-fi product
+995	☊	ambient
+996	☊	rap baiano
+997	☊	amapiano
+998	☊	lo-fi
+999	☊	celtic
+1000	☊	odia pop
+1001	☊	funk mandelao
+1002	☊	folk brasileiro
+1003	☊	trap baiano
+1004	☊	teen pop
+1005	☊	instrumental rock
+1006	☊	funk viral
+1007	☊	british folk
+1008	☊	float house
+1009	☊	japanese soul
+1010	☊	german hard rock
+1011	☊	australian reggae fusion
+1012	☊	turkish alternative
+1013	☊	jazz cover
+1014	☊	tekk
+1015	☊	minneapolis sound
+1016	☊	old school rap francais
+1017	☊	antiviral pop
+1018	☊	canadian latin
+1019	☊	medieval rock
+1020	☊	bases de freestyle
+1021	☊	shamanic
+1022	☊	baltimore indie
+1023	☊	german trap
+1024	☊	rkt
+1025	☊	funk das antigas
+1026	☊	alabama rap
+1027	☊	women's music
+1028	☊	nasheed
+1029	☊	basshall
+1030	☊	brazilian ccm
+1031	☊	deep tropical house
+1032	☊	philly soul
+1033	☊	czech rock
+1034	☊	canzone d'autore
+1035	☊	st louis rap
+1036	☊	pinoy rock
+1037	☊	zhongguo feng
+1038	☊	nu gaze
+1039	☊	crank wave
+1040	☊	r&b argentino
+1041	☊	athens indie
+1042	☊	australian house
+1043	☊	bow pop
+1044	☊	turkish trap pop
+1045	☊	harlem renaissance
+1046	☊	british indie rock
+1047	☊	thai indie pop
+1048	☊	austropop
+1049	☊	synthwave
+1050	☊	trap catala
+1051	☊	classify
+1052	☊	chill phonk
+1053	☊	russian drain
+1054	☊	nu-metalcore
+1055	☊	azonto
+1056	☊	focus
+1057	☊	karadeniz turkuleri
+1058	☊	swedish singer-songwriter
+1059	☊	indie viet
+1060	☊	boom bap
+1061	☊	swedish eurodance
+1062	☊	taiwan indie
+1063	☊	ye ye
+1064	☊	indiecoustica
+1065	☊	rap catala
+1066	☊	russian gangster rap
+1067	☊	hopebeat
+1068	☊	texas latin rap
+1069	☊	variete francaise
+1070	☊	djent
+1071	☊	christmas instrumental
+1072	☊	pinoy reggae
+1073	☊	g-house
+1074	☊	lebanese pop
+1075	☊	new school turkce rap
+1076	☊	synth funk
+1077	☊	hard bop
+1078	☊	portuguese pop
+1079	☊	gymcore
+1080	☊	singaporean pop
+1081	☊	russian romanticism
+1082	☊	swedish drill
+1083	☊	rap mineiro
+1084	☊	indonesian worship
+1085	☊	tamaulipas rap
+1086	☊	batidao romantico
+1087	☊	rap algerien
+1088	☊	art punk
+1089	☊	greek drill
+1090	☊	rap chileno
+1091	☊	hypnagogic pop
+1092	☊	bubblegum dance
+1093	☊	italian baroque
+1094	☊	uk doom metal
+1095	☊	polish alternative
+1096	☊	j-pop girl group
+1097	☊	classic colombian pop
+1098	☊	classic soundtrack
+1099	☊	jazztronica
+1100	☊	rap geek
+1101	☊	westcoast flow
+1102	☊	retro soul
+1103	☊	jazz guitar
+1104	☊	electronic rock
+1105	☊	brazilian jazz
+1106	☊	jazz fusion
+1107	☊	proto-metal
+1108	☊	classic russian pop
+1109	☊	prog metal
+1110	☊	rhythm game
+1111	☊	latin afrobeat
+1112	☊	iskelma
+1113	☊	classic uk pop
+1114	☊	sleaze rock
+1115	☊	australian children's music
+1116	☊	spanish punk
+1117	☊	chicha
+1118	☊	stomp pop
+1119	☊	rock nacional
+1120	☊	electro swing
+1121	☊	wonky
+1122	☊	japanese classical
+1123	☊	rock kapak
+1124	☊	eau claire indie
+1125	☊	nintendocore
+1126	☊	proto-hyperpop
+1127	☊	salsa venezolana
+1128	☊	deep german hip hop
+1129	☊	pop folk
+1130	☊	rock gaucho
+1131	☊	ottawa rap
+1132	☊	cyberpunk
+1133	☊	turkish deep house
+1134	☊	rap cearense
+1135	☊	chill abstract hip hop
+1136	☊	jazz trio
+1137	☊	rap underground espanol
+1138	☊	classic city pop
+1139	☊	scottish singer-songwriter
+1140	☊	french soundtrack
+1141	☊	hardcore techno
+1142	☊	ghanaian pop
+1143	☊	lo-fi vgm
+1144	☊	merengue
+1145	☊	classic arab pop
+1146	☊	bassline
+1147	☊	latin jazz
+1148	☊	italo disco
+1149	☊	bitpop
+1150	☊	boom bap brasileiro
+1151	☊	pop violin
+1152	☊	forro de favela
+1153	☊	swedish power metal
+1154	☊	glitch hop
+1155	☊	anime rap
+1156	☊	cumbia santafesina
+1157	☊	thai rock
+1158	☊	lata
+1159	☊	hk-pop
+1160	☊	italian alternative
+1161	☊	romanian trap
+1162	☊	flamenco
+1163	☊	black metal
+1164	☊	french reggae
+1165	☊	german underground rap
+1166	☊	spanish metal
+1167	☊	rock brasiliense
+1168	☊	boston hip hop
+1169	☊	atlanta indie
+1170	☊	banda sinaloense
+1171	☊	musica tlaxcalteca
+1172	☊	newcastle nsw indie
+1173	☊	filthstep
+1174	☊	hands up
+1175	☊	folk punk
+1176	☊	trap carioca
+1177	☊	pet calming
+1178	☊	mahraganat
+1179	☊	bandung indie
+1180	☊	palm desert scene
+1181	☊	indie punk
+1182	☊	chill breakcore
+1183	☊	breakbeat
+1184	☊	classic russian rock
+1185	☊	aussie drill
+1186	☊	israeli mediterranean
+1187	☊	finnish metal
+1188	☊	cumbia del sureste
+1189	☊	livetronica
+1190	☊	barnsagor
+1191	☊	german r&b
+1192	☊	chicago punk
+1193	☊	rap sardegna
+1194	☊	christian pop
+1195	☊	nederpop
+1196	☊	reggaeton cristiano
+1197	☊	afghan pop
+1198	☊	anthem emo
+1199	☊	lo-fi emo
+1200	☊	boston folk
+1201	☊	lo-fi rap
+1202	☊	argentine alternative rock
+1203	☊	thai indie rock
+1204	☊	abstract hip hop
+1205	☊	violao
+1206	☊	manchester hip hop
+1207	☊	nordic soundtrack
+1208	☊	grave wave
+1209	☊	lovers rock
+1210	☊	melodic thrash
+1211	☊	german punk
+1212	☊	german pop rock
+1213	☊	fantasy metal
+1214	☊	cumbia ranchera
+1215	☊	german singer-songwriter
+1216	☊	anthem worship
+1217	☊	australian alternative rock
+1218	☊	desi emo rap
+1219	☊	monterrey indie
+1220	☊	venezuelan rock
+1221	☊	deep disco house
+1222	☊	bboy
+1223	☊	future house
+1224	☊	dark synthpop
+1225	☊	cumbia sonorense
+1226	☊	australian metalcore
+1227	☊	icelandic indie
+1228	☊	morelos indie
+1229	☊	mississippi hip hop
+1230	☊	noise rock
+1231	☊	instrumental funk
+1232	☊	australian country
+1233	☊	scream rap
+1234	☊	dembow dominicano
+1235	☊	acoustic opm
+1236	☊	narco rap
+1237	☊	sholawat
+1238	☊	organic electronic
+1239	☊	pop nacional antigas
+1240	☊	digital hardcore
+1241	☊	indie liguria
+1242	☊	garage rock revival
+1243	☊	k-indie
+1244	☊	future bass
+1245	☊	kirtan
+1246	☊	neue neue deutsche welle
+1247	☊	cancion infantil latinoamericana
+1248	☊	traphall
+1249	☊	swedish melodeath
+1250	☊	psychedelic soul
+1251	☊	upstate ny rap
+1252	☊	qawwali
+1253	☊	polish classical
+1254	☊	ghanaian hip hop
+1255	☊	thai hip hop
+1256	☊	trap venezolano
+1257	☊	canzone napoletana
+1258	☊	kizomba
+1259	☊	dutch indie
+1260	☊	veracruz indie
+1261	☊	belgian dance
+1262	☊	nerdcore brasileiro
+1263	☊	classic sierreno
+1264	☊	chinese r&b
+1265	☊	solo wave
+1266	☊	indian folk
+1267	☊	modern reggae
+1268	☊	dixieland
+1269	☊	carnaval
+1270	☊	new orleans jazz
+1271	☊	neo r&b
+1272	☊	musica tradicional cubana
+1273	☊	uptempo hardcore
+1274	☊	indonesian reggae
+1275	☊	reggae en espanol
+1276	☊	egyptian trap
+1277	☊	canadian soundtrack
+1278	☊	classic praise
+1279	☊	finnish power metal
+1280	☊	pianissimo
+1281	☊	turkish jazz
+1282	☊	turkish psych
+1283	☊	icelandic rock
+1284	☊	asian american hip hop
+1285	☊	liquid funk
+1286	☊	happy hardcore
+1287	☊	dansband
+1288	☊	pop virale italiano
+1289	☊	acoustic guitar cover
+1290	☊	kayokyoku
+1291	☊	detroit trap brasileiro
+1292	☊	bronx hip hop
+1293	☊	swedish pop rap
+1294	☊	danish rock
+1295	☊	bubble trance
+1296	☊	japanese punk rock
+1297	☊	vegas indie
+1298	☊	tontipop
+1299	☊	singaporean mandopop
+1300	☊	egyptian hip hop
+1301	☊	french romanticism
+1302	☊	dark clubbing
+1303	☊	electro-pop francais
+1304	☊	progressive metalcore
+1305	☊	uk dnb
+1306	☊	french shoegaze
+1307	☊	japanese alternative pop
+1308	☊	german house
+1309	☊	drill italiana
+1310	☊	rai
+1311	☊	healing
+1312	☊	uk reggae
+1313	☊	aggressive phonk
+1314	☊	jovem guarda
+1315	☊	souldies
+1316	☊	austindie
+1317	☊	electropowerpop
+1318	☊	samba-enredo
+1319	☊	afro soul
+1320	☊	musica triste brasileira
+1321	☊	swedish death metal
+1322	☊	nightcore
+1323	☊	umbanda
+1324	☊	hamburg electronic
+1325	☊	saskatchewan indie
+1326	☊	canadian americana
+1327	☊	brega paraense
+1328	☊	cosmic american
+1329	☊	anti-folk
+1330	☊	classic cantopop
+1331	☊	musique pour enfants
+1332	☊	romantico
+1333	☊	indonesian idol pop
+1334	☊	riot grrrl
+1335	☊	rap feminino nacional
+1336	☊	organic house
+1337	☊	mexican classic rock
+1338	☊	chicago soul
+1339	☊	jawaiian
+1340	☊	discofox
+1341	☊	mariachi cristiano
+1342	☊	british alternative rock
+1343	☊	oklahoma country
+1344	☊	bulgarian pop
+1345	☊	german power metal
+1346	☊	swedish tropical house
+1347	☊	welsh rock
+1348	☊	american folk revival
+1349	☊	j-metal
+1350	☊	icelandic pop

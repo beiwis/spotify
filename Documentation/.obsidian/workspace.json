@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "553c380acf8dd124",
+    "type": "split",
+    "children": [
+      {
+        "id": "2858bf1f298bbec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6c5c82c66f1bf33",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "72a1173ef0178b52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/solving-spotify-multiclass-genre-classification-problem.pdf"
+              }
+            }
+          },
+          {
+            "id": "3067ab785efab76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/music genre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2fb52dddfb31344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d49b750459ab105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Music Information Retrieval (MIR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1d7b05639b818fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/music genre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1099b0d07cbe5a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/genre list modifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a53e37baee96d5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/music genre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4cb75a97f112cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/everynoise.com.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91c987a221db8fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "298b0640c256cece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba0d62407b5a7ea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd0ba18a0cd21ce3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c3278c3d5352b46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f23b8a0112e64f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f964474f34a85d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f0219d1c0cf3f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/music genre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4d686023f85c06c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/music genre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a38bdeba2436ecde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ac3eef65fabd2f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/music genre.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c1d7b05639b818fe",
+  "lastOpenFiles": [
+    "resources/Categorical Conventions in Music Discourse Style and Genre.pdf",
+    "wiki/music genre.md",
+    "resources/Chosic.md",
+    "wiki/Music Information Retrieval (MIR).md",
+    "Model.md",
+    "Machine learning.md",
+    "Pasted image 20231201162517.png",
+    "midterm meeting feedback.md",
+    "README.md",
+    "resources/solving-spotify-multiclass-genre-classification-problem.pdf",
+    "resources/~$bliography.rtf",
+    "resources/Bibliography.rtf",
+    "resources/Categorical Conventions in Music Discourse Style and Genre.pdf.opdownload",
+    "wiki/genre list modifications.md",
+    "Pasted image 20231127192723.png",
+    "resources/everynoise.com.md",
+    "resources/music-genre-list-complete-list-music-styles-types-genres.pdf",
+    "resources/music-genre-list-complete-list-music-styles-types-genres.pdf.opdownload",
+    "resources/Genre problematic.md",
+    "Documentation/Vibes.md",
+    "Documentation/Genres.md",
+    "wiki"
+  ]
+}

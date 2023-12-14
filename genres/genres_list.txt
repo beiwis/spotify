@@ -1,0 +1,267 @@
+alternative:
+- art punk
+- alternative rock
+- folk punk
+- grunge
+- hardcore punk
+- hard rock
+- indie rock
+- new wave
+- progressive rock
+- punk
+- shoegaze
+
+blues:
+- blues rock
+- british blues
+- electric blues
+- jazz blues
+- modern blues
+- punk blues
+- soul blues
+- soul blues
+
+children's music:
+
+classical:
+- baroque
+- early music
+
+comedy:
+
+country:
+- alternative country
+- australian country
+- progressive bluegrass
+- contemporary country
+- country pop
+- country rap
+- country rock
+- dansband
+- nashville sound
+- outlaw country
+- red dirt
+- sertanejo
+
+dance:
+- big beat
+- brostep
+- deep house
+- dubstep
+- electro house
+- future garage
+- glitch hop
+- grime
+- digital hardcore
+- happy hardcore
+- deep house
+- diva house
+- dutch house
+- electro house
+- hip house
+- progressive house
+- tech house
+- tropical house
+- vocal house
+- deep house
+- minimal techno
+- tech house
+- trap
+
+easy listening:
+- lounge
+- swing
+
+electronic:
+- bassline
+- chillwave
+- bitpop
+- nintendocore
+- video game music
+- crunk
+- moombahton
+- nu jazz
+- trip hop
+- liquid funk
+- crunk
+- electropop
+- chillwave
+- madchester
+- indietronica
+- new rave
+- synthpop
+- bubblegum dance
+- italo dance
+- industrial
+- trip hop
+- bassline
+- grime
+
+hip-hop/rap:
+- christian hip hop
+- conscious hip hop
+- hardcore hip hop
+- grime
+- hip pop
+- instrumental hip hop
+- jazz rap
+- detroit hip hop
+- new jack swing
+- rap
+- trap
+- west coast rap
+
+holiday:
+
+industrial:
+- industrial rock
+
+gospel:
+- ccm
+- christian pop
+- christian rock
+- gospel
+- qawwali
+
+instrumental:
+
+j-pop:
+
+jazz:
+- bebop
+- cool jazz
+- dixieland
+- hard bop
+- jazz blues
+- jazz rap
+- latin jazz
+- nu jazz
+- smooth jazz
+- soul jazz
+
+latin:
+- bachata
+- bolero
+- bossa nova
+- brazilian rock
+- funk carioca
+- pagode
+- samba
+- tropicalia
+- chicha
+- cumbia
+- latin jazz
+- mariachi
+- ranchera
+- tejano
+- vallenato
+
+metal:
+- speed metal
+- thrash metal
+- power metal
+- death metal
+- black metal
+- symphonic metal
+- gothic metal
+- glam metal
+- groove metal
+- industrial metal
+- progressive metal
+- djent
+- nu metal
+- metalcore
+- deathcore
+- post hardcore
+
+new age:
+- environmental
+- healing
+- meditation
+
+pop:
+- arab pop
+- baroque
+- britpop
+- bubblegum pop
+- chamber pop
+- chanson
+- christian pop
+- austropop
+- french pop
+- latin pop
+- nederpop
+- russian pop
+- dance pop
+- dream pop
+- levenslied
+- mexican pop
+- pop rap
+- pop punk
+- power pop
+- schlager
+- soft rock
+- sunshine pop
+- synthpop
+- teen pop
+- turkish pop
+
+r&b/soul:
+- disco
+- doo wop
+- funk
+- motown
+- northern soul
+- psychedelic soul
+- quiet storm
+- soul
+- soul blues
+- southern soul
+
+reggae:
+- roots reggae
+- reggae fusion
+- lovers rock
+- dancehall
+
+rock:
+- acid rock
+- alternative rock
+- art rock
+- british invasion
+- glam rock
+- gothic metal
+- hard rock
+- metal
+- post punk
+- progressive metal
+- rockabilly
+- roots rock
+- southern rock
+- thrash metal
+
+singer/songwriter:
+- indie folk
+
+soundtrack:
+- soundtrack
+
+tex-mex / tejano:
+
+vocal:
+- a cappella
+- vocal jazz
+
+world:
+- kizomba
+- cantopop
+- korean pop
+- mandopop
+- chutney
+- merengue
+- celtic
+- dangdut
+- dangdut
+- filmi
+- thai pop
+
